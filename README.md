@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anass-bouchnafa
 - 👀 I’m interested in cybersecurity and hacking
 - 🌱 I’m currently learning haking in all the ways possible
-- 💞️ I’m looking to collaborate on projects whithin the thematics above
+- 💞️ I’m looking to collaborate on projects within the thematics above
 - 📫 How to reach me bouchnafa.anass@gmail.com 
 
 <!---
