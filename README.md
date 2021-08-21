@@ -2,7 +2,7 @@
 - 👀 I’m interested in cybersecurity and hacking
 - 🌱 I’m currently learning haking in all the ways possible
 - 💞️ I’m looking to collaborate on projects whithin the thematics above
-- 📫 How to reach me bouchanfa.anass@gmail.com 
+- 📫 How to reach me bouchnafa.anass@gmail.com 
 
 <!---
 anass-bouchnafa/anass-bouchnafa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
